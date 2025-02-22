@@ -2,6 +2,6 @@ package com.prazk.common.convention.enums;
 
 public interface IBaseEnum {
 
-    Integer getCode();
+    int getCode();
     String getDesc();
 }
